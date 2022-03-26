@@ -19,13 +19,13 @@ To get started developing right away:
 * start the app through `npm start`
 
 ## Technology used
- -React
- -HTML
- -CSS
+ * React
+ * HTML
+ * CSS
  
  ## Role
- -Build react components to display the books 
- -Build a react component to search for Books
- -Build a Route to navigate between different routes (/ , "/Categories" , "/search")
- -develop change category functionality
- -develop change current book activity functionality
+ - Build react components to display the books 
+ - Build a react component to search for Books
+ - Build a Route to navigate between different routes (/ , "/Categories" , "/search")
+ - develop change category functionality
+ - develop change current book activity functionality
